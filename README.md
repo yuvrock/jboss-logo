@@ -10,7 +10,7 @@ Using the following link you can get an idea about what we are trying to develop
 You are required to develop something like this using pure web development tools. You can use CSS or any other animation libraries such as [anime js](https://github.com/juliangarnier/anime), [mo js](https://github.com/legomushroom/mojs). 
 Originality and creativity will be appreciated.
 
-When you develop the animated logo please select the logo type according to your preferred type (Web/Mobile). and also make sure to follow the folder structure when you submit your work.
+When you develop the animated logo please select the logo type according to your preferred type (Web/Mobile). and also make sure to **follow the folder structure when you submit your work.**
 
 - For Mobile Apps based logos - `For_Mobile/<your_name>/<Please put your code, source files here>`
 - For Web Apps based logos - `For_Web/<your_name>/<Please put your code, source files here>`
