@@ -12,8 +12,8 @@ Originality and creativity will be appreciated.
 
 When you develop the animated logo please select the logo type according to your preferred type (Web/Mobile). and also make sure to follow the folder structure when you submit your work.
 
-- For Mobile Apps based logos - <`For_Mobile/<your_name>/<Please put your code, source files here>`
-- For Web Apps based logos - <`For_Web/<your_name>/<Please put your code, source files here>`
+- For Mobile Apps based logos - `For_Mobile/<your_name>/<Please put your code, source files here>`
+- For Web Apps based logos - `For_Web/<your_name>/<Please put your code, source files here>`
 
 Please send a PR with the name as `<your_name>_For_Mobile_Logo`. Include a link (Google Drive Link) to your final output(Short Video Clip/Screen Cast Video) in the PR message
 
