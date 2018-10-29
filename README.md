@@ -14,6 +14,6 @@ After developing your logo, you are requested to create a folder containing all 
 - For Mobile Apps based logos - `For_Mobile/<your_name>`
 - For Web Apps based logos - `For_Web/<your_name>`
 
-Please send a PR with the name as `<your_name>_For_Mobile_Logo` or `<your_name>_For_Web_Logo` . Include a link (Google Drive Link) to your final output(Short Video Clip/Screen Cast Video) in the PR message.
+Please send a PR with the name as `<your_name>_For_Mobile_Logo` or `<your_name>_For_Web_Logo` . Include a link (Google Drive Link) to your final output (Short Video Clip/Screen Cast Video) in the PR message.
 
 After reviewing all the logos, we may select one of them for our mobile and web application splash screen.
